@@ -64,9 +64,7 @@ $ npm run start
 $ npm run build
 ```
 
-
 ## Installation BackEnd
-
 
 ```bash
 # transition to BackEnd
@@ -88,7 +86,6 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
-
 
 # API Routers
 ## Applications Routes
