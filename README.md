@@ -1,4 +1,4 @@
-# BattleStar
+# BattleStar(Outdated)
 
 <div align="center">
 <a href="https://github.com/Glebweider/BattleStar-Full"><img src='./FrontEnd - Next Ts/public/BattleStar.svg' width="40%" /></a>
